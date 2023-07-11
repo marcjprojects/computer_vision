@@ -4,4 +4,5 @@
 
 Each Machine Learning problem requires it's own metrics, and whereas some metrics like accuracy. We will develop an exercise which develops the IoU or Intesection Over Union which is a measure used to evaulte the performance of an algorithm in detecting objects within an image. 
 
-![alt text] (https://machinelearningspace.com/wp-content/uploads/2023/01/IOU2.jpg?raw=true)
+![IOU](https://github.com/marcjprojects/computer_vision/assets/139196270/ce836ba2-1423-460a-bb1b-efb6a5215bcb)
+
